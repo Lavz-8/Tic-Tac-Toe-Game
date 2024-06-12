@@ -41,5 +41,8 @@ Run the main.py script to start the game:
 - Python 3.x
 - Pygame
   
+## Output
+![xoxo](https://github.com/Lavz-8/Tic-Tac-Toe-Game/assets/145861363/21e5c519-36f1-43ff-9fb8-ab80fe0defad)
+
 ## Credits
 This game was created by **Lavanya Varadharajan**.
